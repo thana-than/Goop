@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{0BFE5265-5681-55D8-9823-769E032FB6DB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Goop.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GoopRender.cs" Line="35" Column="57" />
+      <File FileName="Assets/Scripts/Goop.cs" Line="136" Column="26" />
+      <File FileName="Assets/Scripts/Control.cs" Line="61" Column="40" />
+      <File FileName="Assets/Scripts/CircleRenderer.cs" Line="88" Column="17" />
+      <File FileName="Assets/Scripts/FunctionLib.cs" Line="21" Column="6" />
+      <File FileName="../Desktop/The-Unknown-master/Assets/Scripts/Object Classes/Tile/TriggerTMProp.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Definitions.cs" Line="52" Column="39" />
+      <File FileName="Assets/Scripts/CameraControl.cs" Line="24" Column="1" />
+      <File FileName="Assets/Scripts/Powerup.cs" Line="114" Column="52" />
+      <File FileName="Assets/Scripts/InputHandler.cs" Line="167" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Goop" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Goop.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Goop" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bcf00aef-b210-40a6-9ae9-011f96f69ed3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
